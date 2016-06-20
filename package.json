@@ -1,0 +1,22 @@
+{
+  "name": "front-template",
+  "version": "1.0.0",
+  "description": "front-template for Requirejs + React + Backbone + Bootstrap",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "babel-preset-react": "latest",
+    "babelify": "latest",
+    "backbone": "latest",
+    "bootstrap": "latest",
+    "jquery": "< 3.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-tools": "^0.13.3",
+    "requirejs": "latest",
+    "requirejs-react-jsx": "latest",
+    "requirejs-text": "latest"
+  },
+  "author": "haloper",
+  "license": "MIT"
+}
